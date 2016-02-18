@@ -1,3 +1,4 @@
 test
 this is a study git
 this is two study
+git status
